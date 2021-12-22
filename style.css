@@ -771,11 +771,11 @@ h2 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: black;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white!important;
 }
 
 .btn-atomic-tangerine {
@@ -1043,5 +1043,13 @@ h2 {
 
 
 .text-center{
+    font-size: 20px;
+}
+
+.italia{
+    font-style: italic;
+}
+
+.getbigger{
     font-size: 20px;
 }
